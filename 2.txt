@@ -1,1 +1,2 @@
 hello world from 2.txt
+second line added after commit 
